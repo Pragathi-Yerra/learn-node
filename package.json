@@ -1,0 +1,21 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^5.0.3",
+    "express": "^4.17.3",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.39",
+    "mysql": "^2.18.1",
+    "object-rename-keys": "^1.2.1"
+  }
+}
